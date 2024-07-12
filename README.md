@@ -20,8 +20,6 @@ Este repositório contém os arquivos necessários para construir um Stream Deck
 
 ### Design 3D
 
-![image](https://github.com/user-attachments/assets/4c08df09-6578-4392-8de7-4bb9282fa331)
-
 Os arquivos na pasta `3D` podem ser usados para imprimir em 3D o enclosure do Stream Deck. Recomendamos usar o Autodesk Fusion 360 para editar ou visualizar os arquivos.
 
 ### Placas de Circuito
