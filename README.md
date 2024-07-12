@@ -1,18 +1,18 @@
-# RoboFEI
+# RoboFEI Stream Deck
 
-Este repositório contém diversos arquivos e pastas relacionados ao projeto RoboFEI, incluindo arquivos de design 3D, placas de circuito, bibliotecas de Arduino e materiais de curso.
+Este repositório contém os arquivos necessários para construir um Stream Deck utilizando uma placa de circuito impresso, um Arduino Nano e um enclosure desenhado no Fusion360 para impressão 3D.
 
 ## Conteúdo
 
 ### Pastas
 
-- **3D**: Contém arquivos de design 3D usados no projeto.
+- **3D**: Contém arquivos de design 3D para imprimir o enclosure do Stream Deck.
 - **Placa**: Inclui arquivos relacionados às placas de circuito do projeto.
 
 ### Arquivos
 
 - **ArduinoSparkfun.lbr**: Biblioteca de componentes Sparkfun para uso no Arduino.
-- **Curso Produção de PCBs RoboFei.pptx**: Apresentação em PowerPoint sobre a produção de PCBs (Placas de Circuito Impresso) no contexto do projeto RoboFEI.
+- **Curso Produção de PCBs RoboFei.pptx**: Apresentação em PowerPoint sobre como produzir PCBs e montar um Stream Deck utilizando uma placa de circuito impresso, um Arduino Nano e um enclosure impresso em 3D.
 - **USBHost-master.zip**: Arquivo zip contendo código e/ou bibliotecas para suporte a USB Host.
 - **README.md**: Este arquivo de documentação que você está lendo.
 
@@ -20,11 +20,17 @@ Este repositório contém diversos arquivos e pastas relacionados ao projeto Rob
 
 ### Design 3D
 
-Os arquivos na pasta `3D` podem ser usados para imprimir em 3D componentes necessários para o projeto RoboFEI. Recomendamos usar um software de design 3D compatível como o Autodesk Fusion 360 ou o Tinkercad.
+![image](https://github.com/user-attachments/assets/4c08df09-6578-4392-8de7-4bb9282fa331)
+
+Os arquivos na pasta `3D` podem ser usados para imprimir em 3D o enclosure do Stream Deck. Recomendamos usar o Autodesk Fusion 360 para editar ou visualizar os arquivos.
 
 ### Placas de Circuito
 
-Na pasta `Placa`, você encontrará esquemáticos e layouts para a criação de placas de circuito. Esses arquivos podem ser abertos e editados com softwares como o Eagle ou KiCad.
+![image](https://github.com/user-attachments/assets/3d820bcc-6db4-48f9-8bb5-343a60590551)
+![image](https://github.com/user-attachments/assets/fdf3e469-65fd-4061-9582-80ce9c2e8930)
+
+
+Na pasta `Placa`, você encontrará esquemáticos e layouts para a criação da placa de circuito do Stream Deck. Esses arquivos podem ser abertos e editados com softwares como o Eagle ou KiCad.
 
 ### Bibliotecas de Arduino
 
@@ -36,21 +42,11 @@ O arquivo `ArduinoSparkfun.lbr` deve ser adicionado ao diretório de bibliotecas
 
 ### Material do Curso
 
-O arquivo `Curso Produção de PCBs RoboFei.pptx` é uma apresentação que fornece instruções e dicas para a produção de PCBs. Pode ser aberto com o Microsoft PowerPoint ou qualquer software compatível com arquivos .pptx.
+O arquivo `Curso Produção de PCBs RoboFei.pptx` é uma apresentação que fornece instruções detalhadas sobre como produzir um Stream Deck. Pode ser aberto com o Microsoft PowerPoint ou qualquer software compatível com arquivos .pptx.
 
 ### Suporte USB Host
 
 Descompacte o arquivo `USBHost-master.zip` para obter os arquivos necessários para implementar o suporte a USB Host no seu projeto. Siga as instruções fornecidas nos arquivos descompactados.
 
-## Contribuindo
-
-Contribuições são bem-vindas! Se você tiver melhorias ou correções, sinta-se à vontade para abrir um pull request. Para grandes mudanças, abra uma issue primeiro para discutir o que você gostaria de mudar.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## Contato
-
-Para mais informações, entre em contato através do GitHub [pedrongit](https://github.com/pedrongit).
-
+![image](https://github.com/user-attachments/assets/36910fb1-60e1-4699-bf29-1f71160a6cca)
+![image](https://github.com/user-attachments/assets/44dec17f-a54c-49b8-a888-56bb7b17d354)
