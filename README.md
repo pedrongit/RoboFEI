@@ -46,5 +46,4 @@ O arquivo `Curso Produção de PCBs RoboFei.pptx` é uma apresentação que forn
 
 Descompacte o arquivo `USBHost-master.zip` para obter os arquivos necessários para implementar o suporte a USB Host no seu projeto. Siga as instruções fornecidas nos arquivos descompactados.
 
-![image](https://github.com/user-attachments/assets/36910fb1-60e1-4699-bf29-1f71160a6cca)
-![image](https://github.com/user-attachments/assets/44dec17f-a54c-49b8-a888-56bb7b17d354)
+![image](https://github.com/user-attachments/assets/36910fb1-60e1-4699-bf29-1f71160a6cca) ![image](https://github.com/user-attachments/assets/44dec17f-a54c-49b8-a888-56bb7b17d354)
